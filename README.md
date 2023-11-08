@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.vectorstock.com/i/1000x1000/08/82/software-developer-character-programmer-vector-26310882.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravai2025&label=Profile%20views&color=0e75b6&style=flat" alt="gauravai2025" /> </p>
 
-- 🔭 I’m currently working on **E-Commmerce Website**
+- 🔭 I’m currently working on **Cultural Heritage Restoration**
 
-- 🌱 I’m currently learning **Flask and DSA**
+- 🌱 I’m currently learning ** Machine learning and DSA**
 
 - 💬 Ask me about **DSA and C.P**
 
